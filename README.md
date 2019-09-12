@@ -1,2 +1,2 @@
 # ROV_TopSide
-Basic control ROV: getting/transmit data Robohand, Joystick support, moving
+Basic control ROV: getting/transmit data, Robohand, Joystick support, moving, MiniROV moving
